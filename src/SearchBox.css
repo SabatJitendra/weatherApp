@@ -1,0 +1,10 @@
+.search-box{
+    width:80%;
+    height:200px;
+    background-color: black;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.search-container{
+    text-align: center;
+}
